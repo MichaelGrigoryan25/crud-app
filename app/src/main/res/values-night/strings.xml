@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="no_data_yet">No Data Yet</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="create">Create</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="delete">Delete</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+</resources>
